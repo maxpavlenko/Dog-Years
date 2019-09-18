@@ -1,2 +1,2 @@
 # Dog-Years
-Dog age Calculator
+Dog Age Calculator
